@@ -1,0 +1,1 @@
+[('Kindly-Scientist-779', 'new_user'), ('Adorable_Reading6217', 'new_user'), ('n_married', 'new_user'), ('karmaismybiche', 'new_user'), ('briggsboardman', 'user'), ('ella', 'user')]
