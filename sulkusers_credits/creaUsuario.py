@@ -14,7 +14,7 @@ def crear_usuario(nombre_usuario, carpeta="prod", creditos=11):
     if not os.path.exists(ruta_archivo):
         with open(ruta_archivo, 'w') as archivo:
             archivo.write(str(creditos))
-        print(f"Se ha creado el archivo {ruta_archivo} y se han escrito {creditos} créditos.")
+        print(f"Se han agregado {creditos} créditos al usuario {nombre_usuario}.")
     else:
         print(f"El archivo {ruta_archivo} ya existe.")
 

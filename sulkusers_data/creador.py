@@ -6,10 +6,8 @@ def nuevoUsuario(aplicacion, usuario, contrasena):
 
     print(f"Esto es usuario: {usuario} y éste es su tipo {type(usuario)}.")
     if usuario == "":
-        print("El usuario si es None")
         usuario = generador.generar_usuario()
     if contrasena == "": 
-        print("La contraseña si es None")
         contrasena = generador.generar_contrasena(usuario)   
     
     # Formatear los datos como una tupla
@@ -19,7 +17,7 @@ def nuevoUsuario(aplicacion, usuario, contrasena):
     tupla_novelty = (usuario, "user")
     herramientas.escritor_tuplas(tupla_novelty, aplicacion, 'novelty')
 
-    return usuario
+    return usuario, contrasena
 
 if __name__ == "__main__":
     print("Estoy aquí y len(sys.argv) es: ", len(sys.argv))

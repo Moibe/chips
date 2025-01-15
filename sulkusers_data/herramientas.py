@@ -70,7 +70,7 @@ def sumar_numeros_finales(nombre_usuario):
 
 def escritor_tuplas(tupla, aplicacion, set):
   
-  print(f"Nuevo set: {tupla} para la aplicación: {aplicacion}.")
+  print(f"Set {set}: {tupla} para la aplicación: {aplicacion}.")
   # Leer los datos existentes del archivo
   with open('sulkusers_data' + '/' + aplicacion + '/' + set + '.py', 'r') as f:
         datos_existentes = eval(f.read())

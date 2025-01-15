@@ -1,7 +1,1 @@
-[
-    ("christian", "new_user"),
-    ("luisdaniel", "new_user"),
-    ("miguelrchang", "new_user"),
-    ("leo", "user"),
-    ("ella", "user")            
-]
+[('Spectra544', 'user'), ('Falcon371', 'user'), ('Scarlet361', 'user'), ('Rorschach630', 'user'), ('Vixen228', 'user'), ('Robin105', 'user'), ('Moonstone787', 'user'), ('Stargirl035', 'user'), ('christian', 'new_user'), ('luisdaniel', 'new_user'), ('miguelrchang', 'new_user'), ('leo', 'user'), ('ella', 'user')]
