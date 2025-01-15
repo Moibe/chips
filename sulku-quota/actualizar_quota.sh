@@ -6,12 +6,12 @@ archivo="chips/sulku-quota/quota.txt"
 # Leer el número actual del archivo
 numero_actual=$(cat "$archivo")
 
-# Sumar 12 al número actual
-nuevo_numero=$((numero_actual + 1))
+# Sumar 5 cada 5 minutos, es la tasa para PRO, o 1 cada 5 minutos la tasa para normal.
+nuevo_numero=$((numero_actual + 5))
 
-# Verificar si el nuevo número es mayor a 300 y ajustarlo si es necesario
-if [ "$nuevo_numero" -gt 300 ]; then
-  nuevo_numero=300
+# Verificar si el nuevo número es mayor a 31500 y ajustarlo si es necesario
+if [ "$nuevo_numero" -gt 1500 ]; then
+  nuevo_numero=1500
 fi
 
 echo "$numero_actual  --> $nuevo_numero"
