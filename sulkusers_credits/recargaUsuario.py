@@ -8,8 +8,8 @@ def recarga_usuario(nombre_usuario, ambiente="prod", creditos=10):
         aplicacion (str, optional): La carpeta donde se encuentran los archivos de usuario. Defaults to "usuarios".
         creditos (int, optional): El número de créditos a agregar. Defaults to 10.
     """
-
-    ruta_archivo = os.path.join(ambiente, nombre_usuario + ".txt")
+    #ruta_archivo = os.path.join(ambiente, nombre_usuario + ".txt")
+    ruta_archivo = os.path.join("sulkusers_credits\\" + ambiente, nombre_usuario + ".txt")
 
     if not os.path.exists(ruta_archivo):
         print(f"El usuario {nombre_usuario} no existe en {ambiente}.")
