@@ -1,6 +1,6 @@
 import os
 
-def recarga_usuario(nombre_usuario, aplicacion="usuarios", creditos=10):
+def recarga_usuario(nombre_usuario, ambiente="prod", creditos=10):
     """Recarga los créditos de un usuario.
 
     Args:
@@ -9,10 +9,10 @@ def recarga_usuario(nombre_usuario, aplicacion="usuarios", creditos=10):
         creditos (int, optional): El número de créditos a agregar. Defaults to 10.
     """
 
-    ruta_archivo = os.path.join(aplicacion, nombre_usuario + ".txt")
+    ruta_archivo = os.path.join(ambiente, nombre_usuario + ".txt")
 
     if not os.path.exists(ruta_archivo):
-        print(f"El usuario {nombre_usuario} no existe en {aplicacion}.")
+        print(f"El usuario {nombre_usuario} no existe en {ambiente}.")
     else:
         with open(ruta_archivo, 'r') as archivo:
             creditos_actuales = int(archivo.read())
@@ -23,7 +23,7 @@ def recarga_usuario(nombre_usuario, aplicacion="usuarios", creditos=10):
 
 if __name__ == "__main__":
     nombre_usuario = input("Ingrese el nombre de usuario: ")
-    aplicacion = input("Ingrese la carpeta de la aplicación (presiona Enter para usar 'prod'): ") or "prod"
+    aplicacion = input("Ingresa el ambiente (presiona Enter para usar 'prod'): ") or "prod"
     while True:
         try:
             creditos = int(input("Ingrese el número de créditos a recargar: "))

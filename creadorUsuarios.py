@@ -1,4 +1,3 @@
-import time
 import tools
 import sulkusers_data.creador as data 
 import sulkusers_credits.creaUsuario as credits
@@ -9,7 +8,7 @@ creditos = 10
 aplicacion = "superheroes"
 ambiente = "prod"
 
-archivo_excel = "usuarios-ronda1.xlsx"
+archivo_excel = ""
 
 workbook, sheet = tools.manageExcel(archivo_excel)
  # Obtener la última fila con datos
