@@ -3,12 +3,12 @@ import sulkusers_data.creador as data
 import sulkusers_credits.creaUsuario as credits
 
 #¿Cuantos?:
-usuarios = 50
-creditos = 10
+usuarios = 1
+creditos = 150
 aplicacion = "superheroes"
 ambiente = "prod"
 
-archivo_excel = ""
+archivo_excel = "AddJavier.xlsx"
 
 workbook, sheet = tools.manageExcel(archivo_excel)
  # Obtener la última fila con datos
