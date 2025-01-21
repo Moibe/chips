@@ -5,7 +5,7 @@ import sulkusers_credits.recargaUsuario as credits_recarga
 #Elimína ésta redundancia poniendo ambas funciones en el mismo py.
 
 #Para data
-aplicaciones = ["boilerplate", "astroblend"]
+aplicaciones = ["astroblend", "observa", "palette", "sampler", "superheroes"]
 usuario = "javier"
 contrasena = "12345"
 #Para credits
@@ -21,14 +21,14 @@ for aplicacion in aplicaciones:
     resultado_crear_creditos = credits_crea.crear_usuario(usuario, ambiente, creditos)
     print("Proceso finalizado")
     time.sleep(3)
+    print("-------------------------------------------------------------")
+    print("Iniciando proceso para cargar créditos.")
+    if "ya existe" in resultado_crear_creditos:
+        #Si el usuario existe ya en credits, entonces recargará los créditos indicados.
+        print("Como el usuario ya existe recargaré ese ya existente:")
+        credits_recarga.recarga_usuario(usuario, ambiente, creditos)
+    print("Proceso finalizado.")
+
 print("For terminado.")
 
-
-print("-------------------------------------------------------------")
-print("Iniciando proceso para cargar créditos.")
-if "ya existe" in resultado_crear_creditos:
-    #Si el usuario existe ya en credits, entonces recargará los créditos indicados.
-    print("Como el usuario ya existe recargaré ese ya existente:")
-    credits_recarga.recarga_usuario(usuario, ambiente, creditos)
-print("Proceso finalizado.")
 print("Todas las operaciones completadas, gracias.")
