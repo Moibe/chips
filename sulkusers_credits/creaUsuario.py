@@ -15,8 +15,10 @@ def crear_usuario(nombre_usuario, carpeta="prod", creditos=11):
         with open(ruta_archivo, 'w') as archivo:
             archivo.write(str(creditos))
         print(f"Se han agregado {creditos} créditos al usuario {nombre_usuario}.")
+        return nombre_usuario
     else:
         print(f"El archivo {ruta_archivo} ya existe.")
+        return "Error 182: ya existe." 
 
 if __name__ == "__main__":
     if len(sys.argv) == 1:

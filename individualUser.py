@@ -1,14 +1,34 @@
-import tools
+import time
 import sulkusers_data.creador as data 
-import sulkusers_credits.creaUsuario as credits
+import sulkusers_credits.creaUsuario as credits_crea
+import sulkusers_credits.recargaUsuario as credits_recarga
+#Elimína ésta redundancia poniendo ambas funciones en el mismo py.
 
 #Para data
-aplicacion = "astroblend"
+aplicaciones = ["boilerplate", "astroblend"]
 usuario = "javier"
 contrasena = "12345"
 #Para credits
-ambiente = "prod"
-creditos = 100
+ambiente = "dev" #dev o prod solo afectan a crédits, puesto que las apps tienen nombres propios.
+creditos = 1 #Como los créditos son generales fijate de no agregarle más y más cada q lo incluyes en una nueva app.
 
-usuario_creado, contrasena = data.nuevoUsuario(aplicacion, usuario, contrasena)
-credits.crear_usuario(usuario_creado, ambiente, creditos)
+print("Iniciando proceso para cargar en sulkusers-data")
+#El for para hacer varias apps, debería empezar aquí.
+for aplicacion in aplicaciones: 
+    print("Cargando en app: ", aplicacion)
+    time.sleep(3)
+    data.nuevoUsuario(aplicacion, usuario, contrasena)
+    resultado_crear_creditos = credits_crea.crear_usuario(usuario, ambiente, creditos)
+    print("Proceso finalizado")
+    time.sleep(3)
+print("For terminado.")
+
+
+print("-------------------------------------------------------------")
+print("Iniciando proceso para cargar créditos.")
+if "ya existe" in resultado_crear_creditos:
+    #Si el usuario existe ya en credits, entonces recargará los créditos indicados.
+    print("Como el usuario ya existe recargaré ese ya existente:")
+    credits_recarga.recarga_usuario(usuario, ambiente, creditos)
+print("Proceso finalizado.")
+print("Todas las operaciones completadas, gracias.")

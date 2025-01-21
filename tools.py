@@ -1,4 +1,6 @@
 import openpyxl
+import importlib
+import os
 
 def manageExcel(archivo_excel):
     #Especificaciones Excel: 
@@ -32,4 +34,23 @@ def manageExcel(archivo_excel):
 
     return workbook, sheet
 
-   
+def usuarioExiste(aplicacion, usuario):
+    """Obtiene los datos de un usuario a partir del archivo data.py de la aplicación.
+
+    Args:
+        aplicacion (str): Nombre de la aplicación.
+        usuario (str): Nombre de usuario a buscar.
+
+    Returns:
+        list: Lista de tuplas con los datos del usuario, o None si no se encuentra.
+    """
+    set = "data" #Porque la existencia de los usuarios la revisa en data.py no en novelty.py
+
+    with open('sulkusers_data' + '/' + aplicacion + '/' + set + '.py', 'r') as f:
+        datos_existentes = eval(f.read())
+    
+    for tupla in datos_existentes:
+        if tupla[0] == usuario:
+                return "Error 183: Usuario ya existe."
+    
+    
