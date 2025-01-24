@@ -9,7 +9,7 @@ aplicaciones = ["astroblend", "observa", "palette", "sampler", "superheroes"]
 usuario = "sergiojimenez90"
 contrasena = "12345"
 #Para credits
-ambiente = "dev" #dev o prod solo afectan a crédits, puesto que las apps tienen nombres propios.
+ambiente = "prod" #dev o prod solo afectan a crédits, puesto que las apps tienen nombres propios.
 creditos = 1 #Como los créditos son generales fijate de no agregarle más y más cada q lo incluyes en una nueva app.
 
 print("Iniciando proceso para cargar en sulkusers-data")
