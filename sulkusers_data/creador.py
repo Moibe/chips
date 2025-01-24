@@ -4,7 +4,7 @@ import sys
 import tools
 import time
 
-def nuevoUsuario(aplicacion, usuario, contrasena): 
+def nuevoUsuario(aplicacion, usuario, contrasena, novelty): 
 
     if usuario == "":
         usuario = generador.generar_usuario()
@@ -22,7 +22,7 @@ def nuevoUsuario(aplicacion, usuario, contrasena):
         nueva_tupla = (usuario, contrasena)
         herramientas.escritor_tuplas(nueva_tupla, aplicacion, 'data')
 
-        tupla_novelty = (usuario, "user")
+        tupla_novelty = (usuario, novelty)
         herramientas.escritor_tuplas(tupla_novelty, aplicacion, 'novelty')
 
 

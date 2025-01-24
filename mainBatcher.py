@@ -7,8 +7,9 @@ usuarios = 1
 creditos = 150
 aplicacion = "superheroes"
 ambiente = "prod"
+novelty = "new_user"
 
-archivo_excel = "AddJavier.xlsx"
+archivo_excel = ""
 
 workbook, sheet = tools.manageExcel(archivo_excel)
  # Obtener la última fila con datos
@@ -17,7 +18,7 @@ last_row = sheet.max_row
 for i in range(usuarios):
     #Alta de Nuevo Usuario dentro de Sulkusers_Data
     #Solo aplicación si es un superheroe-random, aplicacion, usuario y contraseña si es un usuario específico.
-    usuario_creado, contrasena = data.nuevoUsuario(aplicacion, "", "")
+    usuario_creado, contrasena = data.nuevoUsuario(aplicacion, "", "", novelty)
     print(f"Usuario {usuario_creado} listo.")
     #Alta o Recarga de Créditos dentro de Sulkusers_Credits
     #Aquí le tendrás que decir el usuario que creaste previamente en sulkusers_data
