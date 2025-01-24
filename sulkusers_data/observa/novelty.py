@@ -1,5 +1,1 @@
-[
-    ("javier", "new_user"),
-    ("leo", "user"),
-    ("ella", "user")            
-]
+[('sergiojimenez90', 'user'), ('javier', 'new_user'), ('leo', 'user'), ('ella', 'user')]

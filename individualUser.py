@@ -6,7 +6,7 @@ import sulkusers_credits.recargaUsuario as credits_recarga
 
 #Para data
 aplicaciones = ["astroblend", "observa", "palette", "sampler", "superheroes"]
-usuario = "javier"
+usuario = "sergiojimenez90"
 contrasena = "12345"
 #Para credits
 ambiente = "dev" #dev o prod solo afectan a crédits, puesto que las apps tienen nombres propios.

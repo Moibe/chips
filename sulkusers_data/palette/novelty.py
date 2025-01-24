@@ -1,1 +1,1 @@
-[('javier', 'new_user'), ('ella', 'user')]
+[('sergiojimenez90', 'user'), ('javier', 'new_user'), ('ella', 'user')]
