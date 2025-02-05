@@ -28,4 +28,4 @@ def crear_nueva_app(nombre_app):
       f.write("[('ella', 'user')]")
 
 # Ejemplo de uso:
-crear_nueva_app("super-dev")
+crear_nueva_app("t2i-dev")
