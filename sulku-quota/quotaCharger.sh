@@ -1,7 +1,6 @@
 #!/bin/bash
 #Si está vacía entonces:
-timestamp1=$(date +"%d-%m-%Y %H:%M:%S")
-echo "$timestamp1 - ATENCIÓN: No se encontró ningún proceso escuchando en el puerto 7880. Reactivando aplicación."
+
 #Reiniciando proceso
 cd
 cd chips/
