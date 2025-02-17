@@ -1,0 +1,16 @@
+/bin/sh: 1: chips/sulku-quota/quotaCharger.sh: Permission denied
+17-02-2025 01:50:01 - READY: Quota aumentada en 5 con id 711016. 
+chips/sulku-quota/quotaCharger.sh: line 13: .: filename argument required
+.: usage: . filename [arguments]
+La quota actual que hay es:  39
+La quota nueva es:  44
+17-02-2025 01:55:02 - READY: Quota aumentada en 5 con id 711138. 
+chips/sulku-quota/quotaCharger.sh: line 13: .: filename argument required
+.: usage: . filename [arguments]
+La quota actual que hay es:  44
+La quota nueva es:  49
+17-02-2025 02:00:01 - READY: Quota aumentada en 5 con id 711319. 
+chips/sulku-quota/quotaCharger.sh: line 13: .: filename argument required
+.: usage: . filename [arguments]
+La quota actual que hay es:  49
+La quota nueva es:  54
