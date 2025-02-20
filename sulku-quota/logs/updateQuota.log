@@ -1,16 +1,1872 @@
-/bin/sh: 1: chips/sulku-quota/quotaCharger.sh: Permission denied
-17-02-2025 01:50:01 - READY: Quota aumentada en 5 con id 711016. 
-chips/sulku-quota/quotaCharger.sh: line 13: .: filename argument required
-.: usage: . filename [arguments]
-La quota actual que hay es:  39
-La quota nueva es:  44
-17-02-2025 01:55:02 - READY: Quota aumentada en 5 con id 711138. 
-chips/sulku-quota/quotaCharger.sh: line 13: .: filename argument required
-.: usage: . filename [arguments]
-La quota actual que hay es:  44
-La quota nueva es:  49
-17-02-2025 02:00:01 - READY: Quota aumentada en 5 con id 711319. 
-chips/sulku-quota/quotaCharger.sh: line 13: .: filename argument required
-.: usage: . filename [arguments]
-La quota actual que hay es:  49
-La quota nueva es:  54
+17-02-2025 02:10:01 - READY: Quota aumentada en 5 con id 711691. 
+Quota update: 59 -> 64.
+17-02-2025 02:15:01 - READY: Quota aumentada en 5 con id 711830. 
+Quota update: 1497 -> 1502.
+17-02-2025 02:20:01 - READY: Quota aumentada en 5 con id 712018. 
+Quota update: 1500 -> 1505.
+17-02-2025 02:25:01 - READY: Quota aumentada en 5 con id 712143. 
+Quota update: 1500 -> 1505.
+17-02-2025 02:30:01 - READY: Quota aumentada en 5 con id 712273. 
+Quota update: 1500 -> 1505.
+17-02-2025 02:35:01 - READY: Quota aumentada en 5 con id 712412. 
+Quota update: 1500 -> 1505.
+17-02-2025 02:40:01 - READY: Quota aumentada en 5 con id 712567. 
+Quota update: 1500 -> 1505.
+17-02-2025 02:45:01 - READY: Quota aumentada en 5 con id 712700. 
+Quota update: 1500 -> 1505.
+17-02-2025 02:50:01 - READY: Quota aumentada en 5 con id 712818. 
+Quota update: 1500 -> 1505.
+17-02-2025 02:55:01 - READY: Quota aumentada en 5 con id 712941. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:00:01 - READY: Quota aumentada en 5 con id 713074. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:05:01 - READY: Quota aumentada en 5 con id 713582. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:10:01 - READY: Quota aumentada en 5 con id 713698. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:15:01 - READY: Quota aumentada en 5 con id 713826. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:20:01 - READY: Quota aumentada en 5 con id 714009. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:25:01 - READY: Quota aumentada en 5 con id 714136. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:30:01 - READY: Quota aumentada en 5 con id 714261. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:35:01 - READY: Quota aumentada en 5 con id 714386. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:40:01 - READY: Quota aumentada en 5 con id 714525. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:45:02 - READY: Quota aumentada en 5 con id 714660. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:50:01 - READY: Quota aumentada en 5 con id 714788. 
+Quota update: 1500 -> 1505.
+17-02-2025 03:55:02 - READY: Quota aumentada en 5 con id 714921. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:00:01 - READY: Quota aumentada en 5 con id 715034. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:05:01 - READY: Quota aumentada en 5 con id 715119. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:10:01 - READY: Quota aumentada en 5 con id 715225. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:15:02 - READY: Quota aumentada en 5 con id 715350. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:20:01 - READY: Quota aumentada en 5 con id 715526. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:25:02 - READY: Quota aumentada en 5 con id 715664. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:30:01 - READY: Quota aumentada en 5 con id 715795. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:35:01 - READY: Quota aumentada en 5 con id 715921. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:40:01 - READY: Quota aumentada en 5 con id 716050. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:45:01 - READY: Quota aumentada en 5 con id 716168. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:50:01 - READY: Quota aumentada en 5 con id 716317. 
+Quota update: 1500 -> 1505.
+17-02-2025 04:55:01 - READY: Quota aumentada en 5 con id 716438. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:00:01 - READY: Quota aumentada en 5 con id 716566. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:05:01 - READY: Quota aumentada en 5 con id 716649. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:10:01 - READY: Quota aumentada en 5 con id 716772. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:15:02 - READY: Quota aumentada en 5 con id 716907. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:20:01 - READY: Quota aumentada en 5 con id 717084. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:25:01 - READY: Quota aumentada en 5 con id 717217. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:30:01 - READY: Quota aumentada en 5 con id 717341. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:35:01 - READY: Quota aumentada en 5 con id 717475. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:40:01 - READY: Quota aumentada en 5 con id 717606. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:45:01 - READY: Quota aumentada en 5 con id 717725. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:50:01 - READY: Quota aumentada en 5 con id 717855. 
+Quota update: 1500 -> 1505.
+17-02-2025 05:55:01 - READY: Quota aumentada en 5 con id 717988. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:00:01 - READY: Quota aumentada en 5 con id 718113. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:05:01 - READY: Quota aumentada en 5 con id 718189. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:10:01 - READY: Quota aumentada en 5 con id 718389. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:15:01 - READY: Quota aumentada en 5 con id 718519. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:20:01 - READY: Quota aumentada en 5 con id 718658. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:25:02 - READY: Quota aumentada en 5 con id 718800. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:30:01 - READY: Quota aumentada en 5 con id 719083. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:35:01 - READY: Quota aumentada en 5 con id 719423. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:40:01 - READY: Quota aumentada en 5 con id 719555. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:45:01 - READY: Quota aumentada en 5 con id 719677. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:50:01 - READY: Quota aumentada en 5 con id 719818. 
+Quota update: 1500 -> 1505.
+17-02-2025 06:55:01 - READY: Quota aumentada en 5 con id 719934. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:00:01 - READY: Quota aumentada en 5 con id 720056. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:05:01 - READY: Quota aumentada en 5 con id 720133. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:10:01 - READY: Quota aumentada en 5 con id 720251. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:15:01 - READY: Quota aumentada en 5 con id 720378. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:20:01 - READY: Quota aumentada en 5 con id 720516. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:25:01 - READY: Quota aumentada en 5 con id 720687. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:30:01 - READY: Quota aumentada en 5 con id 720823. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:35:01 - READY: Quota aumentada en 5 con id 720947. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:40:01 - READY: Quota aumentada en 5 con id 721077. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:45:01 - READY: Quota aumentada en 5 con id 721197. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:50:01 - READY: Quota aumentada en 5 con id 721323. 
+Quota update: 1500 -> 1505.
+17-02-2025 07:55:01 - READY: Quota aumentada en 5 con id 721465. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:00:01 - READY: Quota aumentada en 5 con id 721573. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:05:02 - READY: Quota aumentada en 5 con id 721648. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:10:01 - READY: Quota aumentada en 5 con id 721766. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:15:02 - READY: Quota aumentada en 5 con id 721952. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:20:01 - READY: Quota aumentada en 5 con id 722087. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:25:01 - READY: Quota aumentada en 5 con id 722252. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:30:01 - READY: Quota aumentada en 5 con id 722382. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:35:01 - READY: Quota aumentada en 5 con id 722519. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:40:02 - READY: Quota aumentada en 5 con id 722640. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:45:01 - READY: Quota aumentada en 5 con id 722853. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:50:01 - READY: Quota aumentada en 5 con id 722981. 
+Quota update: 1500 -> 1505.
+17-02-2025 08:55:01 - READY: Quota aumentada en 5 con id 723104. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:00:01 - READY: Quota aumentada en 5 con id 723244. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:05:01 - READY: Quota aumentada en 5 con id 723334. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:10:02 - READY: Quota aumentada en 5 con id 723447. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:15:01 - READY: Quota aumentada en 5 con id 723603. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:20:01 - READY: Quota aumentada en 5 con id 723729. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:25:01 - READY: Quota aumentada en 5 con id 723851. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:30:01 - READY: Quota aumentada en 5 con id 723985. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:35:01 - READY: Quota aumentada en 5 con id 724163. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:40:01 - READY: Quota aumentada en 5 con id 724370. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:45:01 - READY: Quota aumentada en 5 con id 724496. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:50:01 - READY: Quota aumentada en 5 con id 724629. 
+Quota update: 1500 -> 1505.
+17-02-2025 09:55:01 - READY: Quota aumentada en 5 con id 724763. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:00:01 - READY: Quota aumentada en 5 con id 724874. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:05:01 - READY: Quota aumentada en 5 con id 724950. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:10:02 - READY: Quota aumentada en 5 con id 725062. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:15:01 - READY: Quota aumentada en 5 con id 725170. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:20:02 - READY: Quota aumentada en 5 con id 725316. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:25:00 - READY: Quota aumentada en 5 con id 725490. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:30:01 - READY: Quota aumentada en 5 con id 725612. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:35:02 - READY: Quota aumentada en 5 con id 725729. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:40:01 - READY: Quota aumentada en 5 con id 725854. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:45:02 - READY: Quota aumentada en 5 con id 725970. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:50:01 - READY: Quota aumentada en 5 con id 726091. 
+Quota update: 1500 -> 1505.
+17-02-2025 10:55:01 - READY: Quota aumentada en 5 con id 726211. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:00:01 - READY: Quota aumentada en 5 con id 726318. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:05:01 - READY: Quota aumentada en 5 con id 726408. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:10:02 - READY: Quota aumentada en 5 con id 726515. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:15:01 - READY: Quota aumentada en 5 con id 726638. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:20:01 - READY: Quota aumentada en 5 con id 726772. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:25:01 - READY: Quota aumentada en 5 con id 726939. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:30:01 - READY: Quota aumentada en 5 con id 727082. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:35:01 - READY: Quota aumentada en 5 con id 727312. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:40:02 - READY: Quota aumentada en 5 con id 727455. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:45:01 - READY: Quota aumentada en 5 con id 727585. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:50:01 - READY: Quota aumentada en 5 con id 727705. 
+Quota update: 1500 -> 1505.
+17-02-2025 11:55:01 - READY: Quota aumentada en 5 con id 727826. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:00:01 - READY: Quota aumentada en 5 con id 727945. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:05:01 - READY: Quota aumentada en 5 con id 728018. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:10:01 - READY: Quota aumentada en 5 con id 728131. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:15:01 - READY: Quota aumentada en 5 con id 728272. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:20:02 - READY: Quota aumentada en 5 con id 728397. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:25:01 - READY: Quota aumentada en 5 con id 728525. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:30:01 - READY: Quota aumentada en 5 con id 728694. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:35:01 - READY: Quota aumentada en 5 con id 728815. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:40:01 - READY: Quota aumentada en 5 con id 729025. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:45:01 - READY: Quota aumentada en 5 con id 729234. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:50:01 - READY: Quota aumentada en 5 con id 729357. 
+Quota update: 1500 -> 1505.
+17-02-2025 12:55:01 - READY: Quota aumentada en 5 con id 729479. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:00:01 - READY: Quota aumentada en 5 con id 729591. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:05:01 - READY: Quota aumentada en 5 con id 729668. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:10:01 - READY: Quota aumentada en 5 con id 729778. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:15:01 - READY: Quota aumentada en 5 con id 729912. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:20:01 - READY: Quota aumentada en 5 con id 730041. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:25:01 - READY: Quota aumentada en 5 con id 730155. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:30:01 - READY: Quota aumentada en 5 con id 730335. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:35:01 - READY: Quota aumentada en 5 con id 730453. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:40:01 - READY: Quota aumentada en 5 con id 730581. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:45:01 - READY: Quota aumentada en 5 con id 730712. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:50:01 - READY: Quota aumentada en 5 con id 730834. 
+Quota update: 1500 -> 1505.
+17-02-2025 13:55:01 - READY: Quota aumentada en 5 con id 730968. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:00:01 - READY: Quota aumentada en 5 con id 731072. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:05:01 - READY: Quota aumentada en 5 con id 731147. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:10:01 - READY: Quota aumentada en 5 con id 731255. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:15:01 - READY: Quota aumentada en 5 con id 731394. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:20:02 - READY: Quota aumentada en 5 con id 731538. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:25:01 - READY: Quota aumentada en 5 con id 731704. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:30:02 - READY: Quota aumentada en 5 con id 731935. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:35:01 - READY: Quota aumentada en 5 con id 732054. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:40:02 - READY: Quota aumentada en 5 con id 732186. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:45:01 - READY: Quota aumentada en 5 con id 732311. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:50:02 - READY: Quota aumentada en 5 con id 732430. 
+Quota update: 1500 -> 1505.
+17-02-2025 14:55:01 - READY: Quota aumentada en 5 con id 732561. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:00:02 - READY: Quota aumentada en 5 con id 732680. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:05:01 - READY: Quota aumentada en 5 con id 732754. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:10:02 - READY: Quota aumentada en 5 con id 732861. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:15:01 - READY: Quota aumentada en 5 con id 732988. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:20:01 - READY: Quota aumentada en 5 con id 733166. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:25:01 - READY: Quota aumentada en 5 con id 733305. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:30:01 - READY: Quota aumentada en 5 con id 733425. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:35:01 - READY: Quota aumentada en 5 con id 733542. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:40:01 - READY: Quota aumentada en 5 con id 733659. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:45:01 - READY: Quota aumentada en 5 con id 733788. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:50:01 - READY: Quota aumentada en 5 con id 733918. 
+Quota update: 1500 -> 1505.
+17-02-2025 15:55:02 - READY: Quota aumentada en 5 con id 734045. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:00:01 - READY: Quota aumentada en 5 con id 734153. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:05:01 - READY: Quota aumentada en 5 con id 734233. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:10:01 - READY: Quota aumentada en 5 con id 734331. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:15:02 - READY: Quota aumentada en 5 con id 734459. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:20:01 - READY: Quota aumentada en 5 con id 734589. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:25:01 - READY: Quota aumentada en 5 con id 734718. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:30:01 - READY: Quota aumentada en 5 con id 734893. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:35:01 - READY: Quota aumentada en 5 con id 735028. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:40:01 - READY: Quota aumentada en 5 con id 735149. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:45:01 - READY: Quota aumentada en 5 con id 735275. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:50:01 - READY: Quota aumentada en 5 con id 735394. 
+Quota update: 1500 -> 1505.
+17-02-2025 16:55:01 - READY: Quota aumentada en 5 con id 735526. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:00:01 - READY: Quota aumentada en 5 con id 735635. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:05:01 - READY: Quota aumentada en 5 con id 735710. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:10:01 - READY: Quota aumentada en 5 con id 735821. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:15:02 - READY: Quota aumentada en 5 con id 735942. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:20:01 - READY: Quota aumentada en 5 con id 736077. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:25:02 - READY: Quota aumentada en 5 con id 736196. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:30:01 - READY: Quota aumentada en 5 con id 736369. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:35:01 - READY: Quota aumentada en 5 con id 736515. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:40:01 - READY: Quota aumentada en 5 con id 736630. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:45:01 - READY: Quota aumentada en 5 con id 736771. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:50:01 - READY: Quota aumentada en 5 con id 736890. 
+Quota update: 1500 -> 1505.
+17-02-2025 17:55:01 - READY: Quota aumentada en 5 con id 737011. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:00:01 - READY: Quota aumentada en 5 con id 737135. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:05:01 - READY: Quota aumentada en 5 con id 737220. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:10:01 - READY: Quota aumentada en 5 con id 737336. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:15:01 - READY: Quota aumentada en 5 con id 737470. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:20:01 - READY: Quota aumentada en 5 con id 737596. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:25:01 - READY: Quota aumentada en 5 con id 737780. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:30:01 - READY: Quota aumentada en 5 con id 737906. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:35:02 - READY: Quota aumentada en 5 con id 738038. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:40:01 - READY: Quota aumentada en 5 con id 738169. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:45:02 - READY: Quota aumentada en 5 con id 738294. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:50:01 - READY: Quota aumentada en 5 con id 738418. 
+Quota update: 1500 -> 1505.
+17-02-2025 18:55:02 - READY: Quota aumentada en 5 con id 738548. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:00:01 - READY: Quota aumentada en 5 con id 738665. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:05:01 - READY: Quota aumentada en 5 con id 738747. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:10:01 - READY: Quota aumentada en 5 con id 738860. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:15:01 - READY: Quota aumentada en 5 con id 738995. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:20:01 - READY: Quota aumentada en 5 con id 739128. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:25:01 - READY: Quota aumentada en 5 con id 739262. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:30:01 - READY: Quota aumentada en 5 con id 739397. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:35:01 - READY: Quota aumentada en 5 con id 739575. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:40:01 - READY: Quota aumentada en 5 con id 739699. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:45:01 - READY: Quota aumentada en 5 con id 739836. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:50:01 - READY: Quota aumentada en 5 con id 739960. 
+Quota update: 1500 -> 1505.
+17-02-2025 19:55:01 - READY: Quota aumentada en 5 con id 740093. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:00:02 - READY: Quota aumentada en 5 con id 740216. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:05:01 - READY: Quota aumentada en 5 con id 740282. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:10:02 - READY: Quota aumentada en 5 con id 740402. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:15:01 - READY: Quota aumentada en 5 con id 740571. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:20:01 - READY: Quota aumentada en 5 con id 740760. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:25:01 - READY: Quota aumentada en 5 con id 740880. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:30:01 - READY: Quota aumentada en 5 con id 741014. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:35:01 - READY: Quota aumentada en 5 con id 741131. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:40:01 - READY: Quota aumentada en 5 con id 741265. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:45:01 - READY: Quota aumentada en 5 con id 741404. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:50:02 - READY: Quota aumentada en 5 con id 741527. 
+Quota update: 1500 -> 1505.
+17-02-2025 20:55:01 - READY: Quota aumentada en 5 con id 741659. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:00:02 - READY: Quota aumentada en 5 con id 741771. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:05:01 - READY: Quota aumentada en 5 con id 741950. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:10:02 - READY: Quota aumentada en 5 con id 742058. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:15:01 - READY: Quota aumentada en 5 con id 742191. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:20:01 - READY: Quota aumentada en 5 con id 742371. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:25:01 - READY: Quota aumentada en 5 con id 742515. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:30:01 - READY: Quota aumentada en 5 con id 742648. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:35:01 - READY: Quota aumentada en 5 con id 742777. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:40:01 - READY: Quota aumentada en 5 con id 742899. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:45:02 - READY: Quota aumentada en 5 con id 743028. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:50:01 - READY: Quota aumentada en 5 con id 743146. 
+Quota update: 1500 -> 1505.
+17-02-2025 21:55:02 - READY: Quota aumentada en 5 con id 743275. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:00:01 - READY: Quota aumentada en 5 con id 743392. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:05:01 - READY: Quota aumentada en 5 con id 743476. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:10:01 - READY: Quota aumentada en 5 con id 743586. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:15:02 - READY: Quota aumentada en 5 con id 743712. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:20:01 - READY: Quota aumentada en 5 con id 743841. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:25:01 - READY: Quota aumentada en 5 con id 744018. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:30:01 - READY: Quota aumentada en 5 con id 744134. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:35:01 - READY: Quota aumentada en 5 con id 744265. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:40:01 - READY: Quota aumentada en 5 con id 744388. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:45:01 - READY: Quota aumentada en 5 con id 744503. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:50:01 - READY: Quota aumentada en 5 con id 744635. 
+Quota update: 1500 -> 1505.
+17-02-2025 22:55:01 - READY: Quota aumentada en 5 con id 744768. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:00:01 - READY: Quota aumentada en 5 con id 744887. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:05:01 - READY: Quota aumentada en 5 con id 744981. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:10:01 - READY: Quota aumentada en 5 con id 745085. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:15:01 - READY: Quota aumentada en 5 con id 745213. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:20:01 - READY: Quota aumentada en 5 con id 745353. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:25:01 - READY: Quota aumentada en 5 con id 745479. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:30:01 - READY: Quota aumentada en 5 con id 745652. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:35:01 - READY: Quota aumentada en 5 con id 745782. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:40:01 - READY: Quota aumentada en 5 con id 745912. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:45:01 - READY: Quota aumentada en 5 con id 746042. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:50:01 - READY: Quota aumentada en 5 con id 746235. 
+Quota update: 1500 -> 1505.
+17-02-2025 23:55:02 - READY: Quota aumentada en 5 con id 746358. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:00:01 - READY: Quota aumentada en 5 con id 746485. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:05:01 - READY: Quota aumentada en 5 con id 746582. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:10:01 - READY: Quota aumentada en 5 con id 746708. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:15:02 - READY: Quota aumentada en 5 con id 746856. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:20:01 - READY: Quota aumentada en 5 con id 746985. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:25:02 - READY: Quota aumentada en 5 con id 747183. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:30:01 - READY: Quota aumentada en 5 con id 747304. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:35:01 - READY: Quota aumentada en 5 con id 747433. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:40:01 - READY: Quota aumentada en 5 con id 747564. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:45:01 - READY: Quota aumentada en 5 con id 747775. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:50:01 - READY: Quota aumentada en 5 con id 747954. 
+Quota update: 1500 -> 1505.
+18-02-2025 00:55:01 - READY: Quota aumentada en 5 con id 748117. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:00:01 - READY: Quota aumentada en 5 con id 748230. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:05:01 - READY: Quota aumentada en 5 con id 748311. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:10:01 - READY: Quota aumentada en 5 con id 748421. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:15:01 - READY: Quota aumentada en 5 con id 748555. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:20:01 - READY: Quota aumentada en 5 con id 748691. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:25:02 - READY: Quota aumentada en 5 con id 748970. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:30:01 - READY: Quota aumentada en 5 con id 749262. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:35:01 - READY: Quota aumentada en 5 con id 749402. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:40:01 - READY: Quota aumentada en 5 con id 749547. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:45:02 - READY: Quota aumentada en 5 con id 749674. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:50:01 - READY: Quota aumentada en 5 con id 749821. 
+Quota update: 1500 -> 1505.
+18-02-2025 01:55:01 - READY: Quota aumentada en 5 con id 749945. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:00:01 - READY: Quota aumentada en 5 con id 750074. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:05:02 - READY: Quota aumentada en 5 con id 750165. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:10:01 - READY: Quota aumentada en 5 con id 750298. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:15:01 - READY: Quota aumentada en 5 con id 750438. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:20:01 - READY: Quota aumentada en 5 con id 750566. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:25:01 - READY: Quota aumentada en 5 con id 750701. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:30:01 - READY: Quota aumentada en 5 con id 750875. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:35:01 - READY: Quota aumentada en 5 con id 751015. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:40:01 - READY: Quota aumentada en 5 con id 751135. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:45:02 - READY: Quota aumentada en 5 con id 751270. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:50:01 - READY: Quota aumentada en 5 con id 751386. 
+Quota update: 1500 -> 1505.
+18-02-2025 02:55:01 - READY: Quota aumentada en 5 con id 751513. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:00:01 - READY: Quota aumentada en 5 con id 751629. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:05:01 - READY: Quota aumentada en 5 con id 751715. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:10:01 - READY: Quota aumentada en 5 con id 751816. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:15:02 - READY: Quota aumentada en 5 con id 751955. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:20:01 - READY: Quota aumentada en 5 con id 752092. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:25:01 - READY: Quota aumentada en 5 con id 752225. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:30:01 - READY: Quota aumentada en 5 con id 752574. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:35:01 - READY: Quota aumentada en 5 con id 752700. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:40:01 - READY: Quota aumentada en 5 con id 752835. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:45:01 - READY: Quota aumentada en 5 con id 752952. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:50:01 - READY: Quota aumentada en 5 con id 753079. 
+Quota update: 1500 -> 1505.
+18-02-2025 03:55:01 - READY: Quota aumentada en 5 con id 753215. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:00:01 - READY: Quota aumentada en 5 con id 753414. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:05:01 - READY: Quota aumentada en 5 con id 753488. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:10:01 - READY: Quota aumentada en 5 con id 753597. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:15:01 - READY: Quota aumentada en 5 con id 753735. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:20:01 - READY: Quota aumentada en 5 con id 753863. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:25:01 - READY: Quota aumentada en 5 con id 754037. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:30:01 - READY: Quota aumentada en 5 con id 754164. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:35:01 - READY: Quota aumentada en 5 con id 754299. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:40:01 - READY: Quota aumentada en 5 con id 754418. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:45:01 - READY: Quota aumentada en 5 con id 754547. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:50:02 - READY: Quota aumentada en 5 con id 754672. 
+Quota update: 1500 -> 1505.
+18-02-2025 04:55:01 - READY: Quota aumentada en 5 con id 754810. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:00:01 - READY: Quota aumentada en 5 con id 754922. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:05:01 - READY: Quota aumentada en 5 con id 754999. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:10:01 - READY: Quota aumentada en 5 con id 755116. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:15:01 - READY: Quota aumentada en 5 con id 755252. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:20:02 - READY: Quota aumentada en 5 con id 755377. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:25:01 - READY: Quota aumentada en 5 con id 755498. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:30:01 - READY: Quota aumentada en 5 con id 755667. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:35:01 - READY: Quota aumentada en 5 con id 755797. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:40:01 - READY: Quota aumentada en 5 con id 755923. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:45:01 - READY: Quota aumentada en 5 con id 756036. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:50:01 - READY: Quota aumentada en 5 con id 756165. 
+Quota update: 1500 -> 1505.
+18-02-2025 05:55:01 - READY: Quota aumentada en 5 con id 756292. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:00:02 - READY: Quota aumentada en 5 con id 756404. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:05:01 - READY: Quota aumentada en 5 con id 756479. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:10:01 - READY: Quota aumentada en 5 con id 756587. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:15:01 - READY: Quota aumentada en 5 con id 756711. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:20:01 - READY: Quota aumentada en 5 con id 756837. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:25:01 - READY: Quota aumentada en 5 con id 757035. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:30:01 - READY: Quota aumentada en 5 con id 757162. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:35:01 - READY: Quota aumentada en 5 con id 757388. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:40:01 - READY: Quota aumentada en 5 con id 757604. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:45:01 - READY: Quota aumentada en 5 con id 757717. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:50:01 - READY: Quota aumentada en 5 con id 757849. 
+Quota update: 1500 -> 1505.
+18-02-2025 06:55:01 - READY: Quota aumentada en 5 con id 757978. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:00:01 - READY: Quota aumentada en 5 con id 758196. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:05:01 - READY: Quota aumentada en 5 con id 758275. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:10:01 - READY: Quota aumentada en 5 con id 758385. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:15:01 - READY: Quota aumentada en 5 con id 758510. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:20:01 - READY: Quota aumentada en 5 con id 758693. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:25:01 - READY: Quota aumentada en 5 con id 758819. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:30:02 - READY: Quota aumentada en 5 con id 758946. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:35:01 - READY: Quota aumentada en 5 con id 759071. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:40:01 - READY: Quota aumentada en 5 con id 759210. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:45:01 - READY: Quota aumentada en 5 con id 759322. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:50:01 - READY: Quota aumentada en 5 con id 759453. 
+Quota update: 1500 -> 1505.
+18-02-2025 07:55:01 - READY: Quota aumentada en 5 con id 759575. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:00:01 - READY: Quota aumentada en 5 con id 759686. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:05:01 - READY: Quota aumentada en 5 con id 759763. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:10:02 - READY: Quota aumentada en 5 con id 759879. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:15:01 - READY: Quota aumentada en 5 con id 760003. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:20:01 - READY: Quota aumentada en 5 con id 760133. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:25:01 - READY: Quota aumentada en 5 con id 760312. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:30:01 - READY: Quota aumentada en 5 con id 760424. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:35:02 - READY: Quota aumentada en 5 con id 760555. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:40:01 - READY: Quota aumentada en 5 con id 760680. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:45:01 - READY: Quota aumentada en 5 con id 760876. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:50:01 - READY: Quota aumentada en 5 con id 761000. 
+Quota update: 1500 -> 1505.
+18-02-2025 08:55:01 - READY: Quota aumentada en 5 con id 761131. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:00:01 - READY: Quota aumentada en 5 con id 761242. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:05:01 - READY: Quota aumentada en 5 con id 761323. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:10:01 - READY: Quota aumentada en 5 con id 761427. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:15:01 - READY: Quota aumentada en 5 con id 761558. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:20:01 - READY: Quota aumentada en 5 con id 761680. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:25:02 - READY: Quota aumentada en 5 con id 761813. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:30:01 - READY: Quota aumentada en 5 con id 761981. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:35:01 - READY: Quota aumentada en 5 con id 762138. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:40:01 - READY: Quota aumentada en 5 con id 762276. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:45:01 - READY: Quota aumentada en 5 con id 762400. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:50:01 - READY: Quota aumentada en 5 con id 762527. 
+Quota update: 1500 -> 1505.
+18-02-2025 09:55:01 - READY: Quota aumentada en 5 con id 762659. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:00:01 - READY: Quota aumentada en 5 con id 762762. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:05:01 - READY: Quota aumentada en 5 con id 762843. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:10:01 - READY: Quota aumentada en 5 con id 762952. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:15:01 - READY: Quota aumentada en 5 con id 763076. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:20:01 - READY: Quota aumentada en 5 con id 763213. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:25:01 - READY: Quota aumentada en 5 con id 763393. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:30:02 - READY: Quota aumentada en 5 con id 763523. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:35:01 - READY: Quota aumentada en 5 con id 763725. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:40:01 - READY: Quota aumentada en 5 con id 763849. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:45:01 - READY: Quota aumentada en 5 con id 764410. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:50:01 - READY: Quota aumentada en 5 con id 764553. 
+Quota update: 1500 -> 1505.
+18-02-2025 10:55:01 - READY: Quota aumentada en 5 con id 764671. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:00:01 - READY: Quota aumentada en 5 con id 764795. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:05:01 - READY: Quota aumentada en 5 con id 764872. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:10:01 - READY: Quota aumentada en 5 con id 764987. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:15:01 - READY: Quota aumentada en 5 con id 765114. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:20:01 - READY: Quota aumentada en 5 con id 765251. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:25:01 - READY: Quota aumentada en 5 con id 765413. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:30:02 - READY: Quota aumentada en 5 con id 765560. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:35:01 - READY: Quota aumentada en 5 con id 765684. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:40:01 - READY: Quota aumentada en 5 con id 765810. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:45:01 - READY: Quota aumentada en 5 con id 765927. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:50:02 - READY: Quota aumentada en 5 con id 766046. 
+Quota update: 1500 -> 1505.
+18-02-2025 11:55:01 - READY: Quota aumentada en 5 con id 766189. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:00:02 - READY: Quota aumentada en 5 con id 766306. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:05:01 - READY: Quota aumentada en 5 con id 766377. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:10:01 - READY: Quota aumentada en 5 con id 766498. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:15:01 - READY: Quota aumentada en 5 con id 766615. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:20:01 - READY: Quota aumentada en 5 con id 766799. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:25:01 - READY: Quota aumentada en 5 con id 766917. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:30:02 - READY: Quota aumentada en 5 con id 767054. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:35:01 - READY: Quota aumentada en 5 con id 767178. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:40:02 - READY: Quota aumentada en 5 con id 767302. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:45:01 - READY: Quota aumentada en 5 con id 767427. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:50:02 - READY: Quota aumentada en 5 con id 767759. 
+Quota update: 1500 -> 1505.
+18-02-2025 12:55:01 - READY: Quota aumentada en 5 con id 768474. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:00:02 - READY: Quota aumentada en 5 con id 768641. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:05:01 - READY: Quota aumentada en 5 con id 768721. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:10:02 - READY: Quota aumentada en 5 con id 768835. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:15:01 - READY: Quota aumentada en 5 con id 768953. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:20:02 - READY: Quota aumentada en 5 con id 769095. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:25:01 - READY: Quota aumentada en 5 con id 769219. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:30:01 - READY: Quota aumentada en 5 con id 769402. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:35:01 - READY: Quota aumentada en 5 con id 769532. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:40:01 - READY: Quota aumentada en 5 con id 769667. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:45:01 - READY: Quota aumentada en 5 con id 769785. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:50:01 - READY: Quota aumentada en 5 con id 769916. 
+Quota update: 1500 -> 1505.
+18-02-2025 13:55:02 - READY: Quota aumentada en 5 con id 770050. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:00:01 - READY: Quota aumentada en 5 con id 770243. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:05:01 - READY: Quota aumentada en 5 con id 770324. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:10:01 - READY: Quota aumentada en 5 con id 770429. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:15:01 - READY: Quota aumentada en 5 con id 770562. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:20:01 - READY: Quota aumentada en 5 con id 770696. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:25:01 - READY: Quota aumentada en 5 con id 770835. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:30:01 - READY: Quota aumentada en 5 con id 771002. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:35:01 - READY: Quota aumentada en 5 con id 771124. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:40:01 - READY: Quota aumentada en 5 con id 771255. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:45:01 - READY: Quota aumentada en 5 con id 771390. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:50:01 - READY: Quota aumentada en 5 con id 771514. 
+Quota update: 1500 -> 1505.
+18-02-2025 14:55:01 - READY: Quota aumentada en 5 con id 771643. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:00:01 - READY: Quota aumentada en 5 con id 771752. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:05:01 - READY: Quota aumentada en 5 con id 771834. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:10:01 - READY: Quota aumentada en 5 con id 771953. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:15:01 - READY: Quota aumentada en 5 con id 772211. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:20:01 - READY: Quota aumentada en 5 con id 772335. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:25:01 - READY: Quota aumentada en 5 con id 772471. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:30:01 - READY: Quota aumentada en 5 con id 772590. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:35:01 - READY: Quota aumentada en 5 con id 772768. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:40:01 - READY: Quota aumentada en 5 con id 772893. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:45:01 - READY: Quota aumentada en 5 con id 773020. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:50:01 - READY: Quota aumentada en 5 con id 773156. 
+Quota update: 1500 -> 1505.
+18-02-2025 15:55:01 - READY: Quota aumentada en 5 con id 773281. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:00:01 - READY: Quota aumentada en 5 con id 773393. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:05:01 - READY: Quota aumentada en 5 con id 773493. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:10:02 - READY: Quota aumentada en 5 con id 773597. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:15:01 - READY: Quota aumentada en 5 con id 773726. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:20:02 - READY: Quota aumentada en 5 con id 773863. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:25:01 - READY: Quota aumentada en 5 con id 773993. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:30:02 - READY: Quota aumentada en 5 con id 774119. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:35:01 - READY: Quota aumentada en 5 con id 774297. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:40:02 - READY: Quota aumentada en 5 con id 774418. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:45:01 - READY: Quota aumentada en 5 con id 774547. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:50:01 - READY: Quota aumentada en 5 con id 774667. 
+Quota update: 1500 -> 1505.
+18-02-2025 16:55:01 - READY: Quota aumentada en 5 con id 774791. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:00:02 - READY: Quota aumentada en 5 con id 774908. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:05:01 - READY: Quota aumentada en 5 con id 774986. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:10:02 - READY: Quota aumentada en 5 con id 775094. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:15:01 - READY: Quota aumentada en 5 con id 775211. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:20:02 - READY: Quota aumentada en 5 con id 775348. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:25:01 - READY: Quota aumentada en 5 con id 775482. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:30:01 - READY: Quota aumentada en 5 con id 775645. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:35:01 - READY: Quota aumentada en 5 con id 775771. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:40:01 - READY: Quota aumentada en 5 con id 775896. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:45:01 - READY: Quota aumentada en 5 con id 776029. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:50:01 - READY: Quota aumentada en 5 con id 776164. 
+Quota update: 1500 -> 1505.
+18-02-2025 17:55:01 - READY: Quota aumentada en 5 con id 776299. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:00:01 - READY: Quota aumentada en 5 con id 776406. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:05:01 - READY: Quota aumentada en 5 con id 776487. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:10:02 - READY: Quota aumentada en 5 con id 776589. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:15:01 - READY: Quota aumentada en 5 con id 776728. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:20:01 - READY: Quota aumentada en 5 con id 776858. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:25:01 - READY: Quota aumentada en 5 con id 776990. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:30:01 - READY: Quota aumentada en 5 con id 777160. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:35:01 - READY: Quota aumentada en 5 con id 777292. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:40:01 - READY: Quota aumentada en 5 con id 777407. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:45:01 - READY: Quota aumentada en 5 con id 777542. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:50:01 - READY: Quota aumentada en 5 con id 777680. 
+Quota update: 1500 -> 1505.
+18-02-2025 18:55:02 - READY: Quota aumentada en 5 con id 777800. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:00:01 - READY: Quota aumentada en 5 con id 777914. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:05:01 - READY: Quota aumentada en 5 con id 777995. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:10:01 - READY: Quota aumentada en 5 con id 778100. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:15:01 - READY: Quota aumentada en 5 con id 778230. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:20:01 - READY: Quota aumentada en 5 con id 778410. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:25:01 - READY: Quota aumentada en 5 con id 778538. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:30:01 - READY: Quota aumentada en 5 con id 778659. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:35:01 - READY: Quota aumentada en 5 con id 778795. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:40:01 - READY: Quota aumentada en 5 con id 778929. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:45:02 - READY: Quota aumentada en 5 con id 779045. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:50:01 - READY: Quota aumentada en 5 con id 779176. 
+Quota update: 1500 -> 1505.
+18-02-2025 19:55:01 - READY: Quota aumentada en 5 con id 779309. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:00:01 - READY: Quota aumentada en 5 con id 779429. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:05:01 - READY: Quota aumentada en 5 con id 779504. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:10:02 - READY: Quota aumentada en 5 con id 779611. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:15:01 - READY: Quota aumentada en 5 con id 779733. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:20:02 - READY: Quota aumentada en 5 con id 779869. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:25:01 - READY: Quota aumentada en 5 con id 779992. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:30:01 - READY: Quota aumentada en 5 con id 780180. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:35:01 - READY: Quota aumentada en 5 con id 780303. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:40:02 - READY: Quota aumentada en 5 con id 780414. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:45:01 - READY: Quota aumentada en 5 con id 780549. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:50:01 - READY: Quota aumentada en 5 con id 780681. 
+Quota update: 1500 -> 1505.
+18-02-2025 20:55:01 - READY: Quota aumentada en 5 con id 780799. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:00:01 - READY: Quota aumentada en 5 con id 780913. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:05:01 - READY: Quota aumentada en 5 con id 780999. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:10:01 - READY: Quota aumentada en 5 con id 781097. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:15:01 - READY: Quota aumentada en 5 con id 781225. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:20:01 - READY: Quota aumentada en 5 con id 781359. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:25:01 - READY: Quota aumentada en 5 con id 781588. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:30:01 - READY: Quota aumentada en 5 con id 781760. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:35:01 - READY: Quota aumentada en 5 con id 781894. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:40:01 - READY: Quota aumentada en 5 con id 782016. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:45:01 - READY: Quota aumentada en 5 con id 782143. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:50:01 - READY: Quota aumentada en 5 con id 782272. 
+Quota update: 1500 -> 1505.
+18-02-2025 21:55:01 - READY: Quota aumentada en 5 con id 782405. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:00:01 - READY: Quota aumentada en 5 con id 782530. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:05:01 - READY: Quota aumentada en 5 con id 782612. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:10:01 - READY: Quota aumentada en 5 con id 782725. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:15:01 - READY: Quota aumentada en 5 con id 782841. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:20:01 - READY: Quota aumentada en 5 con id 782976. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:25:01 - READY: Quota aumentada en 5 con id 783112. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:30:02 - READY: Quota aumentada en 5 con id 783251. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:35:01 - READY: Quota aumentada en 5 con id 783558. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:40:01 - READY: Quota aumentada en 5 con id 783688. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:45:01 - READY: Quota aumentada en 5 con id 783808. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:50:01 - READY: Quota aumentada en 5 con id 783933. 
+Quota update: 1500 -> 1505.
+18-02-2025 22:55:01 - READY: Quota aumentada en 5 con id 784064. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:00:01 - READY: Quota aumentada en 5 con id 784174. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:05:01 - READY: Quota aumentada en 5 con id 784256. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:10:01 - READY: Quota aumentada en 5 con id 784370. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:15:01 - READY: Quota aumentada en 5 con id 784487. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:20:01 - READY: Quota aumentada en 5 con id 784683. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:25:01 - READY: Quota aumentada en 5 con id 784804. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:30:01 - READY: Quota aumentada en 5 con id 784930. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:35:01 - READY: Quota aumentada en 5 con id 785058. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:40:01 - READY: Quota aumentada en 5 con id 785182. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:45:01 - READY: Quota aumentada en 5 con id 785310. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:50:02 - READY: Quota aumentada en 5 con id 785528. 
+Quota update: 1500 -> 1505.
+18-02-2025 23:55:01 - READY: Quota aumentada en 5 con id 785658. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:00:01 - READY: Quota aumentada en 5 con id 785777. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:05:01 - READY: Quota aumentada en 5 con id 785864. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:10:01 - READY: Quota aumentada en 5 con id 785985. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:15:02 - READY: Quota aumentada en 5 con id 786180. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:20:01 - READY: Quota aumentada en 5 con id 786317. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:25:01 - READY: Quota aumentada en 5 con id 786521. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:30:02 - READY: Quota aumentada en 5 con id 786645. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:35:01 - READY: Quota aumentada en 5 con id 786766. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:40:01 - READY: Quota aumentada en 5 con id 786905. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:45:01 - READY: Quota aumentada en 5 con id 787021. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:50:01 - READY: Quota aumentada en 5 con id 787158. 
+Quota update: 1500 -> 1505.
+19-02-2025 00:55:01 - READY: Quota aumentada en 5 con id 787277. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:00:01 - READY: Quota aumentada en 5 con id 787397. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:05:01 - READY: Quota aumentada en 5 con id 787473. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:10:01 - READY: Quota aumentada en 5 con id 787589. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:15:01 - READY: Quota aumentada en 5 con id 787722. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:20:01 - READY: Quota aumentada en 5 con id 787850. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:25:01 - READY: Quota aumentada en 5 con id 787980. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:30:01 - READY: Quota aumentada en 5 con id 788148. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:35:01 - READY: Quota aumentada en 5 con id 788270. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:40:01 - READY: Quota aumentada en 5 con id 788405. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:45:01 - READY: Quota aumentada en 5 con id 788525. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:50:01 - READY: Quota aumentada en 5 con id 788655. 
+Quota update: 1500 -> 1505.
+19-02-2025 01:55:01 - READY: Quota aumentada en 5 con id 788792. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:00:01 - READY: Quota aumentada en 5 con id 788902. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:05:01 - READY: Quota aumentada en 5 con id 788981. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:10:01 - READY: Quota aumentada en 5 con id 789091. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:15:01 - READY: Quota aumentada en 5 con id 789218. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:20:01 - READY: Quota aumentada en 5 con id 789346. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:25:01 - READY: Quota aumentada en 5 con id 789466. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:30:01 - READY: Quota aumentada en 5 con id 789594. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:35:01 - READY: Quota aumentada en 5 con id 789772. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:40:01 - READY: Quota aumentada en 5 con id 789910. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:45:01 - READY: Quota aumentada en 5 con id 790038. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:50:01 - READY: Quota aumentada en 5 con id 790164. 
+Quota update: 1500 -> 1505.
+19-02-2025 02:55:01 - READY: Quota aumentada en 5 con id 790288. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:00:01 - READY: Quota aumentada en 5 con id 790404. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:05:01 - READY: Quota aumentada en 5 con id 790482. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:10:01 - READY: Quota aumentada en 5 con id 790592. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:15:01 - READY: Quota aumentada en 5 con id 790721. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:20:01 - READY: Quota aumentada en 5 con id 790860. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:25:01 - READY: Quota aumentada en 5 con id 790975. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:30:01 - READY: Quota aumentada en 5 con id 791154. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:35:02 - READY: Quota aumentada en 5 con id 791271. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:40:01 - READY: Quota aumentada en 5 con id 791405. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:45:01 - READY: Quota aumentada en 5 con id 791526. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:50:01 - READY: Quota aumentada en 5 con id 791660. 
+Quota update: 1500 -> 1505.
+19-02-2025 03:55:01 - READY: Quota aumentada en 5 con id 791791. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:00:01 - READY: Quota aumentada en 5 con id 791901. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:05:02 - READY: Quota aumentada en 5 con id 791978. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:10:01 - READY: Quota aumentada en 5 con id 792113. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:15:02 - READY: Quota aumentada en 5 con id 792260. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:20:01 - READY: Quota aumentada en 5 con id 792450. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:25:01 - READY: Quota aumentada en 5 con id 792579. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:30:01 - READY: Quota aumentada en 5 con id 792702. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:35:01 - READY: Quota aumentada en 5 con id 792831. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:40:01 - READY: Quota aumentada en 5 con id 792953. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:45:02 - READY: Quota aumentada en 5 con id 793069. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:50:01 - READY: Quota aumentada en 5 con id 793196. 
+Quota update: 1500 -> 1505.
+19-02-2025 04:55:01 - READY: Quota aumentada en 5 con id 793319. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:00:01 - READY: Quota aumentada en 5 con id 793439. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:05:01 - READY: Quota aumentada en 5 con id 793514. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:10:01 - READY: Quota aumentada en 5 con id 793632. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:15:01 - READY: Quota aumentada en 5 con id 793762. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:20:02 - READY: Quota aumentada en 5 con id 793890. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:25:01 - READY: Quota aumentada en 5 con id 794023. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:30:01 - READY: Quota aumentada en 5 con id 794198. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:35:01 - READY: Quota aumentada en 5 con id 794319. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:40:01 - READY: Quota aumentada en 5 con id 794448. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:45:01 - READY: Quota aumentada en 5 con id 794573. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:50:02 - READY: Quota aumentada en 5 con id 794703. 
+Quota update: 1500 -> 1505.
+19-02-2025 05:55:01 - READY: Quota aumentada en 5 con id 794910. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:00:01 - READY: Quota aumentada en 5 con id 795051. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:05:01 - READY: Quota aumentada en 5 con id 795275. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:10:01 - READY: Quota aumentada en 5 con id 795412. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:15:01 - READY: Quota aumentada en 5 con id 795569. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:20:01 - READY: Quota aumentada en 5 con id 795751. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:25:01 - READY: Quota aumentada en 5 con id 795917. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:30:01 - READY: Quota aumentada en 5 con id 796181. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:35:01 - READY: Quota aumentada en 5 con id 796366. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:40:01 - READY: Quota aumentada en 5 con id 796483. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:45:02 - READY: Quota aumentada en 5 con id 796607. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:50:01 - READY: Quota aumentada en 5 con id 796740. 
+Quota update: 1500 -> 1505.
+19-02-2025 06:55:01 - READY: Quota aumentada en 5 con id 796870. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:00:01 - READY: Quota aumentada en 5 con id 796978. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:05:01 - READY: Quota aumentada en 5 con id 797051. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:10:02 - READY: Quota aumentada en 5 con id 797161. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:15:01 - READY: Quota aumentada en 5 con id 797282. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:20:02 - READY: Quota aumentada en 5 con id 797461. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:25:01 - READY: Quota aumentada en 5 con id 797603. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:30:02 - READY: Quota aumentada en 5 con id 797717. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:35:01 - READY: Quota aumentada en 5 con id 797841. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:40:01 - READY: Quota aumentada en 5 con id 797975. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:45:01 - READY: Quota aumentada en 5 con id 798097. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:50:01 - READY: Quota aumentada en 5 con id 798220. 
+Quota update: 1500 -> 1505.
+19-02-2025 07:55:01 - READY: Quota aumentada en 5 con id 798348. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:00:01 - READY: Quota aumentada en 5 con id 798469. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:05:01 - READY: Quota aumentada en 5 con id 798545. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:10:01 - READY: Quota aumentada en 5 con id 798655. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:15:02 - READY: Quota aumentada en 5 con id 798774. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:20:01 - READY: Quota aumentada en 5 con id 798912. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:25:02 - READY: Quota aumentada en 5 con id 799040. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:30:01 - READY: Quota aumentada en 5 con id 799158. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:35:01 - READY: Quota aumentada en 5 con id 799339. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:40:01 - READY: Quota aumentada en 5 con id 799468. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:45:01 - READY: Quota aumentada en 5 con id 799596. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:50:01 - READY: Quota aumentada en 5 con id 799716. 
+Quota update: 1500 -> 1505.
+19-02-2025 08:55:01 - READY: Quota aumentada en 5 con id 799840. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:00:01 - READY: Quota aumentada en 5 con id 799956. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:05:01 - READY: Quota aumentada en 5 con id 800459. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:10:01 - READY: Quota aumentada en 5 con id 800576. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:15:01 - READY: Quota aumentada en 5 con id 800702. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:20:01 - READY: Quota aumentada en 5 con id 800834. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:25:01 - READY: Quota aumentada en 5 con id 800970. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:30:01 - READY: Quota aumentada en 5 con id 801142. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:35:02 - READY: Quota aumentada en 5 con id 801265. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:40:01 - READY: Quota aumentada en 5 con id 801397. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:45:01 - READY: Quota aumentada en 5 con id 801516. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:50:01 - READY: Quota aumentada en 5 con id 801650. 
+Quota update: 1500 -> 1505.
+19-02-2025 09:55:01 - READY: Quota aumentada en 5 con id 801764. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:00:01 - READY: Quota aumentada en 5 con id 801887. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:05:01 - READY: Quota aumentada en 5 con id 801963. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:10:01 - READY: Quota aumentada en 5 con id 802078. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:15:01 - READY: Quota aumentada en 5 con id 802207. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:20:01 - READY: Quota aumentada en 5 con id 802341. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:25:01 - READY: Quota aumentada en 5 con id 802470. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:30:02 - READY: Quota aumentada en 5 con id 802641. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:35:01 - READY: Quota aumentada en 5 con id 802766. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:40:01 - READY: Quota aumentada en 5 con id 802899. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:45:01 - READY: Quota aumentada en 5 con id 803012. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:50:01 - READY: Quota aumentada en 5 con id 803148. 
+Quota update: 1500 -> 1505.
+19-02-2025 10:55:02 - READY: Quota aumentada en 5 con id 803280. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:00:01 - READY: Quota aumentada en 5 con id 803427. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:05:01 - READY: Quota aumentada en 5 con id 803507. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:10:01 - READY: Quota aumentada en 5 con id 803608. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:15:01 - READY: Quota aumentada en 5 con id 803742. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:20:02 - READY: Quota aumentada en 5 con id 803880. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:25:01 - READY: Quota aumentada en 5 con id 804048. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:30:01 - READY: Quota aumentada en 5 con id 804180. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:35:01 - READY: Quota aumentada en 5 con id 804306. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:40:01 - READY: Quota aumentada en 5 con id 804448. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:45:01 - READY: Quota aumentada en 5 con id 804566. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:50:01 - READY: Quota aumentada en 5 con id 804692. 
+Quota update: 1500 -> 1505.
+19-02-2025 11:55:02 - READY: Quota aumentada en 5 con id 804816. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:00:01 - READY: Quota aumentada en 5 con id 804933. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:05:01 - READY: Quota aumentada en 5 con id 805012. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:10:01 - READY: Quota aumentada en 5 con id 805119. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:15:01 - READY: Quota aumentada en 5 con id 805241. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:20:01 - READY: Quota aumentada en 5 con id 805391. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:25:01 - READY: Quota aumentada en 5 con id 805559. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:30:01 - READY: Quota aumentada en 5 con id 805683. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:35:01 - READY: Quota aumentada en 5 con id 805824. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:40:01 - READY: Quota aumentada en 5 con id 805945. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:45:01 - READY: Quota aumentada en 5 con id 806068. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:50:01 - READY: Quota aumentada en 5 con id 806207. 
+Quota update: 1500 -> 1505.
+19-02-2025 12:55:01 - READY: Quota aumentada en 5 con id 806338. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:00:01 - READY: Quota aumentada en 5 con id 806453. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:05:01 - READY: Quota aumentada en 5 con id 806528. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:10:01 - READY: Quota aumentada en 5 con id 806631. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:15:02 - READY: Quota aumentada en 5 con id 806768. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:20:01 - READY: Quota aumentada en 5 con id 806894. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:25:01 - READY: Quota aumentada en 5 con id 807132. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:30:02 - READY: Quota aumentada en 5 con id 807260. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:35:01 - READY: Quota aumentada en 5 con id 807378. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:40:01 - READY: Quota aumentada en 5 con id 807510. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:45:01 - READY: Quota aumentada en 5 con id 807621. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:50:01 - READY: Quota aumentada en 5 con id 807763. 
+Quota update: 1500 -> 1505.
+19-02-2025 13:55:01 - READY: Quota aumentada en 5 con id 807898. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:00:01 - READY: Quota aumentada en 5 con id 808011. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:05:01 - READY: Quota aumentada en 5 con id 808091. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:10:01 - READY: Quota aumentada en 5 con id 808202. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:15:01 - READY: Quota aumentada en 5 con id 808317. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:20:01 - READY: Quota aumentada en 5 con id 808460. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:25:01 - READY: Quota aumentada en 5 con id 808595. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:30:02 - READY: Quota aumentada en 5 con id 808719. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:35:01 - READY: Quota aumentada en 5 con id 808891. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:40:01 - READY: Quota aumentada en 5 con id 809019. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:45:01 - READY: Quota aumentada en 5 con id 809140. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:50:02 - READY: Quota aumentada en 5 con id 809273. 
+Quota update: 1500 -> 1505.
+19-02-2025 14:55:01 - READY: Quota aumentada en 5 con id 809400. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:00:01 - READY: Quota aumentada en 5 con id 809521. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:05:02 - READY: Quota aumentada en 5 con id 809601. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:10:01 - READY: Quota aumentada en 5 con id 809710. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:15:01 - READY: Quota aumentada en 5 con id 809846. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:20:01 - READY: Quota aumentada en 5 con id 810020. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:25:01 - READY: Quota aumentada en 5 con id 810153. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:30:01 - READY: Quota aumentada en 5 con id 810278. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:35:01 - READY: Quota aumentada en 5 con id 810408. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:40:01 - READY: Quota aumentada en 5 con id 810532. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:45:01 - READY: Quota aumentada en 5 con id 810662. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:50:01 - READY: Quota aumentada en 5 con id 810813. 
+Quota update: 1500 -> 1505.
+19-02-2025 15:55:01 - READY: Quota aumentada en 5 con id 810943. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:00:01 - READY: Quota aumentada en 5 con id 811058. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:05:01 - READY: Quota aumentada en 5 con id 811129. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:10:01 - READY: Quota aumentada en 5 con id 811244. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:15:01 - READY: Quota aumentada en 5 con id 811371. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:20:02 - READY: Quota aumentada en 5 con id 811526. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:25:01 - READY: Quota aumentada en 5 con id 811704. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:30:01 - READY: Quota aumentada en 5 con id 811827. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:35:02 - READY: Quota aumentada en 5 con id 811957. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:40:01 - READY: Quota aumentada en 5 con id 812080. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:45:01 - READY: Quota aumentada en 5 con id 812202. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:50:01 - READY: Quota aumentada en 5 con id 812329. 
+Quota update: 1500 -> 1505.
+19-02-2025 16:55:01 - READY: Quota aumentada en 5 con id 812445. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:00:01 - READY: Quota aumentada en 5 con id 812562. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:05:01 - READY: Quota aumentada en 5 con id 812640. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:10:01 - READY: Quota aumentada en 5 con id 812745. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:15:01 - READY: Quota aumentada en 5 con id 812854. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:20:01 - READY: Quota aumentada en 5 con id 812999. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:25:02 - READY: Quota aumentada en 5 con id 813170. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:30:01 - READY: Quota aumentada en 5 con id 813301. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:35:01 - READY: Quota aumentada en 5 con id 813425. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:40:01 - READY: Quota aumentada en 5 con id 813883. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:45:01 - READY: Quota aumentada en 5 con id 814502. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:50:02 - READY: Quota aumentada en 5 con id 814625. 
+Quota update: 1500 -> 1505.
+19-02-2025 17:55:01 - READY: Quota aumentada en 5 con id 814742. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:00:01 - READY: Quota aumentada en 5 con id 814860. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:05:01 - READY: Quota aumentada en 5 con id 814938. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:10:01 - READY: Quota aumentada en 5 con id 815044. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:15:01 - READY: Quota aumentada en 5 con id 815189. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:20:01 - READY: Quota aumentada en 5 con id 815315. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:25:01 - READY: Quota aumentada en 5 con id 815435. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:30:01 - READY: Quota aumentada en 5 con id 815611. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:35:01 - READY: Quota aumentada en 5 con id 815736. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:40:01 - READY: Quota aumentada en 5 con id 815868. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:45:01 - READY: Quota aumentada en 5 con id 816003. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:50:01 - READY: Quota aumentada en 5 con id 816132. 
+Quota update: 1500 -> 1505.
+19-02-2025 18:55:01 - READY: Quota aumentada en 5 con id 816273. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:00:01 - READY: Quota aumentada en 5 con id 816395. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:05:01 - READY: Quota aumentada en 5 con id 816483. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:10:01 - READY: Quota aumentada en 5 con id 816606. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:15:02 - READY: Quota aumentada en 5 con id 816737. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:20:01 - READY: Quota aumentada en 5 con id 816884. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:25:01 - READY: Quota aumentada en 5 con id 817071. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:30:01 - READY: Quota aumentada en 5 con id 817204. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:35:01 - READY: Quota aumentada en 5 con id 817340. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:40:01 - READY: Quota aumentada en 5 con id 817475. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:45:01 - READY: Quota aumentada en 5 con id 817618. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:50:01 - READY: Quota aumentada en 5 con id 817769. 
+Quota update: 1500 -> 1505.
+19-02-2025 19:55:01 - READY: Quota aumentada en 5 con id 817903. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:00:01 - READY: Quota aumentada en 5 con id 818033. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:05:01 - READY: Quota aumentada en 5 con id 818119. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:10:01 - READY: Quota aumentada en 5 con id 818242. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:15:01 - READY: Quota aumentada en 5 con id 818382. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:20:01 - READY: Quota aumentada en 5 con id 818571. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:25:01 - READY: Quota aumentada en 5 con id 818707. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:30:02 - READY: Quota aumentada en 5 con id 818852. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:35:01 - READY: Quota aumentada en 5 con id 818987. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:40:01 - READY: Quota aumentada en 5 con id 819132. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:45:01 - READY: Quota aumentada en 5 con id 819264. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:50:01 - READY: Quota aumentada en 5 con id 819400. 
+Quota update: 1500 -> 1505.
+19-02-2025 20:55:01 - READY: Quota aumentada en 5 con id 819542. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:00:01 - READY: Quota aumentada en 5 con id 819663. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:05:01 - READY: Quota aumentada en 5 con id 819765. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:10:02 - READY: Quota aumentada en 5 con id 819886. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:15:01 - READY: Quota aumentada en 5 con id 820010. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:20:01 - READY: Quota aumentada en 5 con id 820164. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:25:01 - READY: Quota aumentada en 5 con id 820304. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:30:01 - READY: Quota aumentada en 5 con id 820491. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:35:01 - READY: Quota aumentada en 5 con id 820628. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:40:01 - READY: Quota aumentada en 5 con id 820769. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:45:02 - READY: Quota aumentada en 5 con id 820993. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:50:01 - READY: Quota aumentada en 5 con id 821126. 
+Quota update: 1500 -> 1505.
+19-02-2025 21:55:01 - READY: Quota aumentada en 5 con id 821251. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:00:01 - READY: Quota aumentada en 5 con id 821386. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:05:01 - READY: Quota aumentada en 5 con id 821469. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:10:01 - READY: Quota aumentada en 5 con id 821658. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:15:01 - READY: Quota aumentada en 5 con id 821790. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:20:01 - READY: Quota aumentada en 5 con id 821954. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:25:02 - READY: Quota aumentada en 5 con id 822099. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:30:02 - READY: Quota aumentada en 5 con id 822294. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:35:01 - READY: Quota aumentada en 5 con id 822444. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:40:02 - READY: Quota aumentada en 5 con id 822594. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:45:01 - READY: Quota aumentada en 5 con id 822821. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:50:01 - READY: Quota aumentada en 5 con id 822967. 
+Quota update: 1500 -> 1505.
+19-02-2025 22:55:01 - READY: Quota aumentada en 5 con id 823107. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:00:01 - READY: Quota aumentada en 5 con id 823226. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:05:01 - READY: Quota aumentada en 5 con id 823321. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:10:01 - READY: Quota aumentada en 5 con id 823446. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:15:01 - READY: Quota aumentada en 5 con id 823591. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:20:01 - READY: Quota aumentada en 5 con id 823728. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:25:01 - READY: Quota aumentada en 5 con id 823924. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:30:01 - READY: Quota aumentada en 5 con id 824050. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:35:01 - READY: Quota aumentada en 5 con id 824187. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:40:01 - READY: Quota aumentada en 5 con id 824330. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:45:01 - READY: Quota aumentada en 5 con id 824462. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:50:01 - READY: Quota aumentada en 5 con id 824606. 
+Quota update: 1500 -> 1505.
+19-02-2025 23:55:02 - READY: Quota aumentada en 5 con id 824748. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:00:01 - READY: Quota aumentada en 5 con id 824886. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:05:01 - READY: Quota aumentada en 5 con id 824988. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:10:01 - READY: Quota aumentada en 5 con id 825127. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:15:01 - READY: Quota aumentada en 5 con id 825270. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:20:01 - READY: Quota aumentada en 5 con id 825405. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:25:01 - READY: Quota aumentada en 5 con id 825554. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:30:01 - READY: Quota aumentada en 5 con id 825685. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:35:01 - READY: Quota aumentada en 5 con id 825868. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:40:01 - READY: Quota aumentada en 5 con id 826020. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:45:01 - READY: Quota aumentada en 5 con id 826146. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:50:01 - READY: Quota aumentada en 5 con id 826297. 
+Quota update: 1500 -> 1505.
+20-02-2025 00:55:02 - READY: Quota aumentada en 5 con id 826446. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:00:01 - READY: Quota aumentada en 5 con id 826578. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:05:01 - READY: Quota aumentada en 5 con id 826668. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:10:01 - READY: Quota aumentada en 5 con id 826781. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:15:01 - READY: Quota aumentada en 5 con id 826916. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:20:01 - READY: Quota aumentada en 5 con id 827063. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:25:01 - READY: Quota aumentada en 5 con id 827198. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:30:01 - READY: Quota aumentada en 5 con id 827388. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:35:01 - READY: Quota aumentada en 5 con id 827531. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:40:02 - READY: Quota aumentada en 5 con id 827720. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:45:01 - READY: Quota aumentada en 5 con id 827864. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:50:01 - READY: Quota aumentada en 5 con id 827995. 
+Quota update: 1500 -> 1505.
+20-02-2025 01:55:01 - READY: Quota aumentada en 5 con id 828148. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:00:01 - READY: Quota aumentada en 5 con id 828275. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:05:01 - READY: Quota aumentada en 5 con id 828364. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:10:01 - READY: Quota aumentada en 5 con id 828480. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:15:01 - READY: Quota aumentada en 5 con id 828620. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:20:01 - READY: Quota aumentada en 5 con id 828764. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:25:01 - READY: Quota aumentada en 5 con id 828952. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:30:01 - READY: Quota aumentada en 5 con id 829098. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:35:01 - READY: Quota aumentada en 5 con id 829223. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:40:01 - READY: Quota aumentada en 5 con id 829370. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:45:01 - READY: Quota aumentada en 5 con id 829500. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:50:01 - READY: Quota aumentada en 5 con id 829639. 
+Quota update: 1500 -> 1505.
+20-02-2025 02:55:01 - READY: Quota aumentada en 5 con id 829776. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:00:01 - READY: Quota aumentada en 5 con id 829911. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:05:01 - READY: Quota aumentada en 5 con id 830002. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:10:02 - READY: Quota aumentada en 5 con id 830123. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:15:01 - READY: Quota aumentada en 5 con id 830262. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:20:01 - READY: Quota aumentada en 5 con id 830411. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:25:01 - READY: Quota aumentada en 5 con id 830598. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:30:01 - READY: Quota aumentada en 5 con id 830730. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:35:02 - READY: Quota aumentada en 5 con id 830871. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:40:01 - READY: Quota aumentada en 5 con id 831009. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:45:01 - READY: Quota aumentada en 5 con id 831147. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:50:01 - READY: Quota aumentada en 5 con id 831284. 
+Quota update: 1500 -> 1505.
+20-02-2025 03:55:01 - READY: Quota aumentada en 5 con id 831428. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:00:01 - READY: Quota aumentada en 5 con id 831551. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:05:01 - READY: Quota aumentada en 5 con id 831641. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:10:01 - READY: Quota aumentada en 5 con id 831768. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:15:01 - READY: Quota aumentada en 5 con id 831909. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:20:01 - READY: Quota aumentada en 5 con id 832035. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:25:01 - READY: Quota aumentada en 5 con id 832175. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:30:01 - READY: Quota aumentada en 5 con id 832360. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:35:01 - READY: Quota aumentada en 5 con id 832490. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:40:02 - READY: Quota aumentada en 5 con id 832625. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:45:01 - READY: Quota aumentada en 5 con id 832759. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:50:02 - READY: Quota aumentada en 5 con id 832877. 
+Quota update: 1500 -> 1505.
+20-02-2025 04:55:01 - READY: Quota aumentada en 5 con id 833014. 
+Quota update: 1500 -> 1505.
+20-02-2025 05:00:01 - READY: Quota aumentada en 5 con id 833133. 
+Quota update: 1500 -> 1505.
+20-02-2025 05:05:01 - READY: Quota aumentada en 5 con id 833224. 
+Quota update: 1500 -> 1505.
+20-02-2025 05:10:01 - READY: Quota aumentada en 5 con id 833334. 
+Quota update: 1500 -> 1505.
+20-02-2025 05:15:02 - READY: Quota aumentada en 5 con id 833473. 
+Quota update: 1500 -> 1505.
+20-02-2025 05:20:01 - READY: Quota aumentada en 5 con id 833672. 
+Quota update: 1500 -> 1505.
+20-02-2025 05:25:01 - READY: Quota aumentada en 5 con id 833790. 
+Quota update: 1500 -> 1505.
+20-02-2025 05:30:01 - READY: Quota aumentada en 5 con id 833933. 
+Quota update: 1500 -> 1505.
+20-02-2025 05:35:01 - READY: Quota aumentada en 5 con id 834071. 
+Quota update: 1500 -> 1505.
+20-02-2025 05:40:01 - READY: Quota aumentada en 5 con id 834218. 
+Quota update: 1500 -> 1505.
+20-02-2025 05:45:01 - READY: Quota aumentada en 5 con id 834340. 
+Quota update: 1470 -> 1475.
+20-02-2025 05:50:01 - READY: Quota aumentada en 5 con id 834486. 
+Quota update: 1475 -> 1480.
+20-02-2025 05:55:01 - READY: Quota aumentada en 5 con id 834629. 
+Quota update: 1480 -> 1485.
+20-02-2025 06:00:01 - READY: Quota aumentada en 5 con id 834749. 
+Quota update: 1485 -> 1490.
+20-02-2025 06:05:01 - READY: Quota aumentada en 5 con id 834916. 
+Quota update: 1490 -> 1495.
+20-02-2025 06:10:01 - READY: Quota aumentada en 5 con id 835040. 
+Quota update: 1495 -> 1500.
+20-02-2025 06:15:01 - READY: Quota aumentada en 5 con id 835177. 
+Quota update: 1500 -> 1505.
+20-02-2025 06:20:01 - READY: Quota aumentada en 5 con id 835372. 
+Quota update: 1500 -> 1505.
+20-02-2025 06:25:02 - READY: Quota aumentada en 5 con id 835521. 
+Quota update: 1500 -> 1505.
+20-02-2025 06:30:04 - READY: Quota aumentada en 5 con id 835967. 
+Quota update: 1500 -> 1505.
+20-02-2025 06:35:01 - READY: Quota aumentada en 5 con id 836687. 
+Quota update: 1500 -> 1505.
+20-02-2025 06:40:01 - READY: Quota aumentada en 5 con id 836823. 
+Quota update: 1500 -> 1505.
+20-02-2025 06:45:01 - READY: Quota aumentada en 5 con id 836961. 
+Quota update: 1500 -> 1505.
+20-02-2025 06:50:01 - READY: Quota aumentada en 5 con id 837092. 
+Quota update: 1500 -> 1505.
+20-02-2025 06:55:02 - READY: Quota aumentada en 5 con id 837228. 
+Quota update: 1500 -> 1505.
+20-02-2025 07:00:01 - READY: Quota aumentada en 5 con id 837353. 
+Quota update: 1500 -> 1505.
+20-02-2025 07:05:01 - READY: Quota aumentada en 5 con id 837443. 
+Quota update: 1500 -> 1505.
+20-02-2025 07:10:02 - READY: Quota aumentada en 5 con id 837559. 
+Quota update: 1500 -> 1505.
+20-02-2025 07:15:01 - READY: Quota aumentada en 5 con id 837826. 
+Quota update: 1380 -> 1385.
+20-02-2025 07:20:01 - READY: Quota aumentada en 5 con id 837961. 
+Quota update: 1325 -> 1330.
+20-02-2025 07:25:01 - READY: Quota aumentada en 5 con id 838092. 
+Quota update: 1300 -> 1305.
+20-02-2025 07:30:01 - READY: Quota aumentada en 5 con id 838332. 
+Quota update: 1305 -> 1310.
+20-02-2025 07:35:01 - READY: Quota aumentada en 5 con id 838468. 
+Quota update: 1220 -> 1225.
+20-02-2025 07:40:01 - READY: Quota aumentada en 5 con id 838605. 
+Quota update: 1135 -> 1140.
+20-02-2025 07:45:01 - READY: Quota aumentada en 5 con id 838748. 
+Quota update: 1020 -> 1025.
+20-02-2025 07:50:01 - READY: Quota aumentada en 5 con id 838879. 
+Quota update: 965 -> 970.
+20-02-2025 07:55:01 - READY: Quota aumentada en 5 con id 839012. 
+Quota update: 880 -> 885.
+20-02-2025 08:00:01 - READY: Quota aumentada en 5 con id 839242. 
+Quota update: 825 -> 830.
+20-02-2025 08:05:01 - READY: Quota aumentada en 5 con id 839393. 
+Quota update: 770 -> 775.
