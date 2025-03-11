@@ -1,11 +1,15 @@
 #!/bin/bash
 
-#Reiniciando proceso
+# Reiniciando proceso
 cd
 cd chips/
 source venv/bin/activate
 cd sulku-quota
-python updateQuota.py &
-nuevo_proceso=$(pgrep -f "python updateQuota.py")
-timestamp2=$(date +"%d-%m-%Y %H:%M:%S")
-echo "$timestamp2 - READY: Quota aumentada en 5 con id $nuevo_proceso. "
+
+# Ejecutar el script y capturar su salida
+quota_update=$(python updateQuota.py)
+
+timestamp=$(date +"%d-%m-%Y %H:%M:%S")
+
+# Guardar todo en una sola línea en el log
+echo "$timestamp - $quota_update"
