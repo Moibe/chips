@@ -4,3 +4,5 @@ config_old.json
 sulku-quota/__pycache__/
 sulku-quota/
 /__pycache__/
+sulku-quota/config.json
+sulku-quota/config_old.json
