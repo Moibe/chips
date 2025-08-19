@@ -1,4 +1,6 @@
 /venv/
 config.json
+config_old.json
 sulku-quota/__pycache__/
 sulku-quota/
+/__pycache__/
